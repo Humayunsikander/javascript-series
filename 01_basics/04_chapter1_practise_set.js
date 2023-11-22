@@ -2,4 +2,4 @@
 
 let stringVariable = "Humayun";
 let age = 5;
-console.log(stringVariable + age);
+console.log("My name and age is ", stringVariable + age);
