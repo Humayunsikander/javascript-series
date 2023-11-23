@@ -43,3 +43,12 @@ console.log("a < b ", a < b);
 console.log("a > b ", a > b);
 console.log("a === b ", a === b); // return true if types of operands matches
 console.log("a !== b ", a !== b); // return true if types of operands not matches
+
+
+//Logical operators &&, ||, !
+console.log("Logical operators");
+console.log("a = ", a); // a = 9765625
+console.log("b = ", b); // b = 10
+console.log("a < b && a > 0", a < b && a > 0); // false
+console.log("a > b && a > 0", a > b && a > 0); // true
+console.log("a < b || a > 0", a < b || a > 0); // true
